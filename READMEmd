@@ -1,0 +1,7 @@
+*My First Git Project*
+
+- ini adalah project git
+
+---js
+console.log("Hello World")
+----
